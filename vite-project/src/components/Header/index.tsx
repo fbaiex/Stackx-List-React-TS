@@ -10,7 +10,7 @@ export function Header() {
             <Content>
                 <ImageLogo />
                 <button>
-                    
+                    <img src='https://github.com/fbaiex.png' />
                 </button>
             </Content>
         </Container>
